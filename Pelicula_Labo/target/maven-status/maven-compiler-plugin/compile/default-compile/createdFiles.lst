@@ -1,0 +1,13 @@
+servlets\SvPeliculas.class
+com\mycompany\pelicula_labo\resources\JavaEE8Resource.class
+logica\Controladora.class
+logica\Pelicula.class
+persistencia\PeliculaJpaController.class
+servlets\SvEditarPelicula.class
+com\mycompany\pelicula_labo\JAXRSConfiguration.class
+persistencia\exceptions\NonexistentEntityException.class
+logica\Pelicula_.class
+persistencia\exceptions\PreexistingEntityException.class
+servlets\SvEliminarPelicula.class
+persistencia\ControladoraPersistencia.class
+persistencia\exceptions\IllegalOrphanException.class
